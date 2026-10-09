@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "olsts",
+    "email": "localities@atomicmail.io"
+  },
+  "records": {
+    "CNAME": "olsts.github.io"
+  }
+}
